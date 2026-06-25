@@ -16,13 +16,6 @@ const projects = [
     description: "A secure organizational tool built with role-based access control, Google Sign-In, and live issuance tracking.",
     tech: ["React", "Firebase Auth", "Firestore"],
     status: "Deployed"
-  },
-  {
-    title: "AyurSutra Platform",
-    type: "Healthcare Scheduling",
-    description: "A specialized management software designed for complex therapy scheduling and patient record administration.",
-    tech: ["Node.js", "Express", "Tailwind"],
-    status: "Research Phase"
   }
 ];
 
