@@ -17,6 +17,7 @@ const projects = [
     tech: ["React", "Firebase Auth", "Firestore"],
     status: "Deployed"
   }
+  
 ];
 
 export default function ProjectsSection() {
